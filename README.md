@@ -1,7 +1,5 @@
 ## How To Start
 
-Recommended editor: `Visual Studio Code`
-
 Required tools:
 
 - Git
