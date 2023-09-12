@@ -8,10 +8,8 @@ function App() {
 
   return (
     <div className={onTempChange({ weather })}>
-      <main>
-        <Search setWeather={setWeather} />
-        <Weather weather={weather} />
-      </main>
+      <Search setWeather={setWeather} />
+      <Weather weather={weather} />
     </div>
   );
 }
